@@ -1,0 +1,9 @@
+../Core/Src/main.c:99:5:main	24	static
+../Core/Src/main.c:250:6:SystemClock_Config	120	static
+../Core/Src/main.c:311:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:359:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:407:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:455:6:StartBlinkLedTask	16	static
+../Core/Src/main.c:475:6:StartLightSensorReadTask	32	static
+../Core/Src/main.c:510:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:527:6:Error_Handler	4	static,ignoring_inline_asm
